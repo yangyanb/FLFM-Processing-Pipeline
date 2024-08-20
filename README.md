@@ -14,7 +14,9 @@
 **_Voxel filter.pdf_**: <br />description of voxel-wise filering of reconstructed data <br />
 
 ## Acknowledgements:
-
+The 3D reconstruction section was adapted from a previous package named **_oLaF - A flexible 3D reconstruction framework for light field microscopy_**
+<br /> The adaption is made to improve the implementation of the reconstruction theory as well as to accomodate our preprocessing pipeline and Experimental PSF extraction method.  
+ 
 ## Folders:
 **_Code_** : <br />Contains all the MATLAB script for processing. The usage is expained in the maunals.<br />
 <br />
