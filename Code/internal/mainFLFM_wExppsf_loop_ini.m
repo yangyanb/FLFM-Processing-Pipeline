@@ -5,10 +5,10 @@ addpath(genpath(pwd));
 %% Section 1: Read in MLA Masks
 datasetdir='E:\yangyang\FLFM_reconstruction_My\Data_Seisure\202230516_4umBeads10X0.4NA\Center_3C\Mask\';
 fileName='MLA_Mask.tif';
-MLAMask=single(makeOddSize(imread([datasetdir,fileName])));
+MLAMask=true(makeOddSize(imread([datasetdir,fileName])));
 
 fileName='Lenslet_Mask.tif';
-Lenslet_Mask=single(makeOddSize(imread([datasetdir,fileName])));
+Lenslet_Mask=true(makeOddSize(imread([datasetdir,fileName])));
 
 %% Section 2: read in Configuration file
 
