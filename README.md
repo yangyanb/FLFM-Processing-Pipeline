@@ -12,6 +12,8 @@
 **_FLFM Processing pipline with ExpPSF.pdf_** : <br />description of the experimental PSF processing and 3D reconstruction<br />
 <br />
 **_Voxel filter.pdf_**: <br />description of voxel-wise filering of reconstructed data <br />
+<br />
+**_FLFM performance Calculator.pdf_**: <br />description of FLFM performance calculator <br />
 
 ## Acknowledgements:
 The 3D reconstruction section was adapted from a previous package named **_oLaF - A flexible 3D reconstruction framework for light field microscopy_**
