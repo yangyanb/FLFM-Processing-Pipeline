@@ -1,7 +1,7 @@
 # Fourier Light Field Micrscope processing pipeline 
 **_This processing pipeline is written for FLFM data processing in the paper:_**
 <br />
-"A Versatile Light Field Microscopy Platform for Fast Multi-purpose 4D Bio-imaging"<br />
+"Multiscale Light Field Microscopy Platform for Multi-purpose Dynamic Volumetric Bioimaging"<br />
 
 
 **_If you are using or referencing the code, please cite:_**
