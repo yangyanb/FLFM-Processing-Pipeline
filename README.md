@@ -31,5 +31,5 @@ The data provided here is downsampled 20 times to reduce the sample data size.
 ## Links
 **_A Youtube tutorial explaining the processing pipeling and the usage of the package is provided here:_** 
 <br />
-**_(comming soon.....)_**
+**_https://www.youtube.com/playlist?list=PLMhHjB34iVaNAFxiTnipbVmRfZnmUAfBG_**
 <br />
