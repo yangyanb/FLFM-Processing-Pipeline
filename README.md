@@ -2,10 +2,9 @@
 **_This processing pipeline is written for FLFM data processing in the paper:_**
 <br />
 "Multiscale Light Field Microscopy Platform for Multi-purpose Dynamic Volumetric Bioimaging"<br />
-(in peer review...)
 
 **_If you are using or referencing the code, please cite:_**
-<br /> Bai, Yangyang & Jones, Matt & Ojeda, Lauro & Cuala, Janielle & Cherchia, Lynne & Georgia, Senta & Fraser, Scott & Truong, Thai. (2024). Multiscale Light Field Microscopy Platform for Multi-purpose Dynamic Volumetric Bioimaging. 10.21203/rs.3.rs-5478288/v1. 
+<br /> _Bai, Yangyang & Jones, Matt & Ojeda, Lauro & Cuala, Janielle & Cherchia, Lynne & Georgia, Senta & Fraser, Scott & Truong, Thai. (2024). Multiscale Light Field Microscopy Platform for Multi-purpose Dynamic Volumetric Bioimaging. 10.21203/rs.3.rs-5478288/v1_. 
 <br />
 
 ## Manuals:
