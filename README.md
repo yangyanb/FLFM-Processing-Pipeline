@@ -17,6 +17,11 @@
 ## Acknowledgements:
 The 3D reconstruction section was adapted from a previous package named **_oLaF - A flexible 3D reconstruction framework for light field microscopy_**
 <br /> The adaption is made to improve the implementation of the reconstruction theory as well as to accomodate our preprocessing pipeline and Experimental PSF extraction method.  
+
+<br /> [1] A. Stefanoiu et. al., “Artifact-free deconvolution in light field microscopy”, Opt. Express, 27(22):31644, (2019).
+<br /> [2] A. Stefanoiu et. al., “What about computational super-resolution in fluorescence Fourier light field microscopy?“, Opt. Express, 28, 16554 (2020).
+<br /> [3] A. Stefanoiu et. al., “Deconvolution in Fourier integral microscopy”, Proc. SPIE 11396, Computational Imaging V (2020)
+
  
 ## Folders:
 **_Code_** : <br />Contains all the MATLAB script for processing. The usage is expained in the maunals.<br />
