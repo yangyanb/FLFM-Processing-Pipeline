@@ -15,7 +15,7 @@
 **_FLFM performance Calculator.pdf_**: <br />description of FLFM performance calculator <br />
 
 ## Acknowledgements:
-The 3D reconstruction section was adapted from a previous package named **_oLaF - A flexible 3D reconstruction framework for light field microscopy_**
+The 3D reconstruction section was adapted from a previous package named **_oLaF - A flexible 3D reconstruction framework for light field microscopy [1,2,3] _**
 <br /> The adaption is made to improve the implementation of the reconstruction theory as well as to accomodate our preprocessing pipeline and Experimental PSF extraction method.  
 
 <br /> [1] A. Stefanoiu et. al., “Artifact-free deconvolution in light field microscopy”, Opt. Express, 27(22):31644, (2019).
